@@ -1,5 +1,6 @@
 # Data Warehouse and Analytics Project
 Welcome to the Data Warehouse and Analytics Project repository! 🚀
+
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. 
 
 
@@ -37,7 +38,6 @@ These insights empower stakeholders with key business metrics, enabling strategi
 This project is licensed under the [MIT License].(LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 ## 🌟 About Me
-Hi there! I'm **Jani Basha Shaik**, a 2024 graduate with a passion for Data, Data Engineering, and Data Analytics. I'm currently building my portfolio by developing and sharing projects.
+Hi there! I'm **Jani Basha Shaik**, a 2024 graduate with a passion for Data, Data Engineering, and Data Analytics. I'm currently building my portfolio by developing and sharing projects. Open to collaborating on projects, internships, or full-time roles. 
 
-
-Let's stay in touch! Feel free to connect with me on the following platforms:
+Let’s connect! Feel free to connect with me on the following platforms:

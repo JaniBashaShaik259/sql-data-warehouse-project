@@ -58,7 +58,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 This project is licensed under the [MIT License].(LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 ## 🌟 About Me
-Hi there! I'm **Jani Basha Shaik**, anaspiring Data Engineer. I'm currently Open to collaborating on projects, internships, or full-time roles. 
+Hi there! I'm **Jani Basha Shaik**, an aspiring Data Engineer. Open to collaborating on projects, internships, or full-time roles. 
 
 Feel free to connect with me on the following platforms:
 

@@ -58,6 +58,8 @@ These insights empower stakeholders with key business metrics, enabling strategi
 This project is licensed under the [MIT License].(LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 ## 🌟 About Me
-Hi there! I'm **Jani Basha Shaik**, a 2024 graduate with a passion for Data, Data Engineering, and Data Analytics. I'm currently building my portfolio by developing and sharing projects. Open to collaborating on projects, internships, or full-time roles. 
+Hi there! I'm **Jani Basha Shaik**, anaspiring Data Engineer. I'm currently Open to collaborating on projects, internships, or full-time roles. 
 
-Let’s connect! Feel free to connect with me on the following platforms:
+Feel free to connect with me on the following platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/259janibasha)

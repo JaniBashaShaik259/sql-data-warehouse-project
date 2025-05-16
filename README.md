@@ -1,7 +1,7 @@
-# Data Warehouse and Analytics Project
-Welcome to the Data Warehouse and Analytics Project repository! 🚀
+# Data Warehouse Project
+Welcome to the Data Warehouse Project repository! 🚀
 
-This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. 
+This project demonstrates a comprehensive data warehousing solution, from building a data warehouse from scratch to generating business ready data model.
 
 ---
 ## 🏗️ Data Architecture
@@ -21,7 +21,7 @@ This project involves:
 1. **Data Architecture**: Designing a Modern Data Warehouse Using Medallion Architecture **Bronze**, **Silver**, and **Gold** layers.
 2. **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
 3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
-4. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
+
 ---
 
 ---
@@ -42,20 +42,8 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 ---
 
-### BI: Analytics & Reporting (Data Analysis)
-
-###  Objective
-Develop SQL-based analytics to deliver detailed insights into:
-- **Customer Behavior**
-- **Product Performance**
-- **Sales Trends**
-
-These insights empower stakeholders with key business metrics, enabling strategic decision-making.
-
----
-
 ### 🛡️ License
-This project is licensed under the [MIT License].(LICENSE). You are free to use, modify, and share this project with proper attribution.
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 ## 🌟 About Me
 Hi there! I'm **Jani Basha Shaik**, an aspiring Data Engineer. Open to collaborating on projects, internships, or full-time roles. 
